@@ -61,3 +61,10 @@ htmlcov/
 __pycache__/
 *.py[cod]
 *$py.class 
+
+TODO
+backend/.envrc
+backend/.python-version
+backend/chat_history.json
+backend/scratch.ipynb
+backend/scratch.json
